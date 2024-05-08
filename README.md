@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 # Simple Location App
 Location app that gets latitude, longitude and zipcode from the user and then show all the info in the UI.
-
+This app uses Mapbox API in order to get the Zipcode depending the longitude and latitude of the user
 ## Getting Started
 
 First, run the development server:
